@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.huatanbao.cn/sitemap.xml
